@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  color: #000000;
+  font-weight: bold;
+  font-size: 30px;
+}
+.imgCard {
+  display: flex;
+  margin-left: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.avatar {
+  width: 5%;
+}
+.image3 {
+  width: 50%;
+}
+.name {
+  color: #8e8e8e;
+}
+.para2 {
+  color: #8e8e8e;
+  text-align: center;
+  padding: 10px;
+  margin: 30px;
+}
